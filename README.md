@@ -1,2 +1,2 @@
-# botcamp_projects
+# bootcamp_projects
 Data Science Bootcamp Batch 06
